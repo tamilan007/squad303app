@@ -38,7 +38,7 @@ Contributors names and contact info
 squad303
 [@squad3o3](https://twitter.com/squad3o3)
 squad303@protonmail.com
-t.me/squad3o3
+https://t.me/squad3o3
 
 
 ## License
